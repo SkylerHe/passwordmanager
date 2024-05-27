@@ -1,0 +1,19 @@
+Password Manager
+Write-up and Code - Friday April 26nd Write a document describing the design and implementation of your project, and turn it in along with your project's code by the final deadline. The document should be about 1-page of text that helps me 
+understand what problem you solved, and what your code does.
+User-friendly Password generator
+Random, complicate,  based on the dictionary
+Password storage
+Encryption password and database 
+Password retrieve
+Decrypt the password
+Project Presentation - Thursday May 2nd, 2pm Prepare a short (7 - 10 minutes) in-class presentation about the work that you have done for your project.
+
+Program that prompts the user to enter the website and their username
+Generate and encrypt the password
+Program to retrieve and decrypt the password
+Ensure protection from SQL injection, perform a handshake
+Add security questions
+
+
+
